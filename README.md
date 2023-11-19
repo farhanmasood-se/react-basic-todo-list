@@ -1,2 +1,0 @@
-# React Basic Todo List
- 
